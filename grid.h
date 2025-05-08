@@ -4,8 +4,8 @@
 
 #ifndef GRID_H
 #define GRID_H
-#define GRID_HEIGHT 18
-#define GRID_WIDTH  18
+#define GRID_HEIGHT 20
+#define GRID_WIDTH  20
 #define EMPTY_CHAR  '.'
 #define PLAYER_CHAR '@'
 typedef struct {
